@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build output
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.class
+
+# Env / secrets
+.env
+.env.*
+*.log
+
+# Windows
+$RECYCLE.BIN/
